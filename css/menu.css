@@ -1,8 +1,8 @@
 .menu ul {
-	list-style-type:none; /* Nessuno stile applicato alla lista */
+	list-style-type:none; /* Stile della lista */
 	margin: 2px;
 	padding:0;
-	margin-left:550px;
+	margin-left:540px;
 }
 
 .menu li {
@@ -14,7 +14,7 @@
 }
 
 .menu a {
-	text-decoration:none; /* Nessuna decorazione */
+	text-decoration:none; /*Decorazione */
 	color:black; /* Colore Link */
 	background:; /* Colore sfondo */
 	padding:2px; /* Distanza tra gli elementi */
@@ -23,14 +23,14 @@
 }
 
 .menu a:hover {
-	background:silver; /* Sfondo */
+	background: silver; /* Sfondo */
 	border-radius: 5px;
 }
 .active {
 	color:white;
 	margin-top: 20px;
 	margin-bottom: 20px;
-	background-color:lightblue;
+	background-color: gold;
 	border-radius: 5px;
 
 }

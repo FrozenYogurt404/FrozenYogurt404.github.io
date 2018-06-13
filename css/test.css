@@ -10,13 +10,29 @@ h2 {
 	color:#696969 black;
 	font-family: 'Montserrat';
 	margin-top: 10px;
-	background-color:#959595;
+	background-color:;
+}
+h3 {
+	color:white;
+	font-family: 'Montserrat';
+	margin-top: 10px;
+	background-color:;
 }
 p {
 	color:#696969 black;
-	font-family: 'Montserrat';
+	font-family: 'Play', sans-serif;
 	margin-top: 10px;
 
-	background-color:#959595;
 }
 
+.bg-color {
+	background-color: #808334;
+}
+.sizeup {
+	font-size: 30px;
+}
+
+/*img { 
+  border: 1px solid #000; 
+  padding: 10px;
+}
